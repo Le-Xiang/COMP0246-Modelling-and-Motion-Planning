@@ -1,1 +1,1 @@
-#COMP0246
+# COMP0246 Modelling and Motion Planning
